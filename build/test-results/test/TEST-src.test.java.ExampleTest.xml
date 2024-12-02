@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.test.java.ExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-02T08:52:31" hostname="MacBook-Pro-Valdemar.local" time="0.007">
+  <properties/>
+  <testcase name="testSum()" classname="src.test.java.ExampleTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
