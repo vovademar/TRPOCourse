@@ -29,3 +29,6 @@ jobs:
 
       - name: Run tests with Gradle
         run: ./gradlew test
+
+      - name: Generate Javadoc 
+        run: ./gradlew javadoc:javadoc
