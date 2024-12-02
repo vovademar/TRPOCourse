@@ -1,4 +1,4 @@
-package untitled.src.main.java.v.medvedev;
+package src.main.java.v.medvedev;
 
 public class Main {
     public static void main(String[] args) {
