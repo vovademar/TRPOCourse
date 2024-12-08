@@ -19,4 +19,10 @@ public class ExampleTest {
         int sum = main.calculate(1,2,3);
         assertEquals(6, sum);
     }
+    @Test
+    public void testMethod1() {
+        Main main = new Main();
+        int sum = main.calculate(1,7,3);
+        assertEquals(11, sum);
+    }
 }
