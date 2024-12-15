@@ -24,4 +24,8 @@ public class Main {
     public int calculateMultiply(int a, int b) {
         return a * b;
     }
+
+    public int calculateDivide(int a, int b) {
+        return a / b;
+    }
 }
