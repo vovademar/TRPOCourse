@@ -15,6 +15,12 @@ public class Main {
         return a + b + c;
     }
 
+    /**
+     *
+     * @param a - first param
+     * @param b - second param
+     * @return multiply of a, b
+     */
     public int calculateMultiply(int a, int b) {
         return a * b;
     }
