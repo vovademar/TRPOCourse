@@ -6,7 +6,6 @@ public class Main {
     }
 
     /**
-     *
      * @param a - first param
      * @param b - second param
      * @param c - third param
@@ -14,5 +13,9 @@ public class Main {
      */
     public int calculate(int a, int b, int c) {
         return a + b + c;
+    }
+
+    public int calculateMultiply(int a, int b) {
+        return a * b;
     }
 }
