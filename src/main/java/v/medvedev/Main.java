@@ -25,7 +25,22 @@ public class Main {
         return a * b;
     }
 
+    /**
+     *
+     * @param a - param a
+     * @param b - param b
+     * @return div
+     */
     public int calculateDivide(int a, int b) {
         return a / b;
+    }
+
+    /**
+     *
+     * @param str - str to concat to hello world
+     * @return - string
+     */
+    public String printHelloWorld(String str){
+        return "Hello World! " + str;
     }
 }
